@@ -10,3 +10,12 @@ Book repo:  https://github.com/robreider/robo-advisor-with-python
 # Efficient frontier
 
 ![alt text](image.png)
+
+# Set up
+
+Python 3.10
+
+Installing dependencies:
+```
+$ python3.10 -m pip install yfinance
+```
