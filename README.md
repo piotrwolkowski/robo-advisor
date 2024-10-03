@@ -41,6 +41,8 @@ $ python3.10 -m pip install yfinance
 
 ## Ito's Lemma
 
+Explanations related to Ito's Lemma and stochastic differential equations: https://chatgpt.com/share/66fe6a88-ae34-8006-b12a-fe77fc747e44.
+
 This equation is a version of **Ito's Lemma** for a function of a stochastic process. It explains how to differentiate a function that depends on a stochastic process (e.g., a Brownian motion) with respect to time and the process itself.
 
 Let’s break it down step by step:
